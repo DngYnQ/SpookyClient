@@ -1,2 +1,2 @@
 # SpookyClient
-simple. client of spooky mesenger
+simple client of spooky mesenger
